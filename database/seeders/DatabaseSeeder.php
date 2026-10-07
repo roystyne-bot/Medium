@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
             'Health',
             'Science',
             'Sports',
-            'Politics',
+            'Politi',
             'Entertainment',
         ];
 
